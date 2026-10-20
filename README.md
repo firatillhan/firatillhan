@@ -41,7 +41,7 @@ W&@@&WMMW&M*i;: rM@@@@@@@@&x*si,:iW@&@@@@@@@@@@@@@
 
 - 📱 **iOS Developer** focused on building native applications
 - 🍎 Developing with **Swift, UIKit & SwiftUI**
-- 🚀 Creator of [Sermora](https://apps.apple.com/) — a language-learning app
+- 🚀 Creator of [Sermora](https://apps.apple.com/tr/app/sermora/id6760352077) — a language-learning app
 - 🔥 Experienced with **Firebase, REST APIs & MySQL**
 - 🧠 Exploring **AI, Machine Learning & Core ML**
 - 🌐 Also interested in **Python, backend development & networking**
