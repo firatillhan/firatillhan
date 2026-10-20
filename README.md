@@ -1,31 +1,65 @@
-,,,,,,,,,,,,,,,,....,,::::;i;:....................
-,,,,,,,,........:itLGG000GGGGCt;,.................
-,,,,,,........;L0888888888000800Li................
-,,.......... ;088GCCCCCGGGGGGCCC00t...............
-.............C8Ltttttfffffffftt11fGt..............
-........... 10tii111ttttttttttt1i;iGf ............
-............Lf;i1111ttttttttttt11i;iC; .     .....
-.......... .C1;i111111tttttttt1111;:tt            
-.......... ,Gi:;1fLCGGLftttfLCGCLt;,;f            
-.......    .G1:iLCCG00GCfttLG00GGCt,;t            
-......    .,ft:1tCC0000CfttC0000CLt:;;.           
-...       ;11i;1ttfLCCLftttfCCCCLtt;:t1,          
-.         ;i1i;111tfffft1t11fffft11;:ii.          
-          .1t1:i11ttfLLtttt1fLftt11;;f;           
-           i1fi;i1tfLCG8@0880CCft1i:ft:           
-           .ifCtttfC88800008888Gft1fti.           
-            ,.iGCLL80GLLLCCLLG88CLCf::            
-               tGGCGLffCG00GLfLGGCC:              
-                tCGGGCCG0000GG00GC1               
-                ,LG000GGGGG00080GC;               
-                .tCG00G08888000G0C;,:             
-                .1LCC00888888000GL1.Cf.           
-              .:t1fLCCG00000GGGCLL; t@Ci.  .......
-...,,,,,,,,..iG;Gf1tfLLCGGGCCCLCC; .C888G1:,,,,,::
-::::::::,,,,f@C:0C111tfLLLLLLLCL: .i8@88880CLt;:,,
-,,,::,,,,:iG@8f,C8Lt1ttffffLLfi. ,:L@8@8888@@@8Gf1
-::,,,:;tLL0@0Lf ,LCCLffffff1;.  ,,;G@8@@@@@888@@@@
-,,:ifG00G0@0Cti.  .;1tftt1ii:  ,,,18@@@@@@@@@@8888
-1fG8@80GG80C1;;. iLttfCCLG8@8L,.,:C@8@@@@@@@@@@@@@
-8@@8800G080t;;:.10@@@@@@@@0f1ii::i0@8@@@@@@@@@@@@@
+## Hi, I'm Fırat 👋
+
+```text
+,,,.......................................           ....   ........................................
+......................................,,::;iirrrsrrrs*o*+ss;,,,.....................................
+............................... .,:is*xx#MWWWWWWWWWMM#MM###%*r;:,...................................
+............................. .i+x%#MWW&&&&&&&WWWWWWMMMMWWMMM#x*r:,.... ............................
+........................... .rxMMWW&&&&&&&&&W&WW&WWWMMMMMW&WWMWM#x+:...         ....................
+.......................... ,xMWW&&&&WMMMMMMMMMWWWWWWMMMMMWMMMMWWWM#xr,..                        .. .
+.......................   .%&W&&WM#xxxxoxxxxx%%##%#######%%xxox%#MWM#s. .                           
+...................     . rWW&W%xo*************oooooooooo***+++s+*x#M#s,                            
+................         :%WW#o+s++s+++++***************++++++ssriir*%Mxi                           
+..............          ,%MWx+srrsssssss++++++++++++++++++++++ssrii;i+xM%i                          
+..........              rMM*iirrrsssssss++++++++++++++++++++++sssrii;isx#x,                         
+......                  *Mxr;irrrssssss+++++++++++++++*+++++++ssssri;;;rxMs                         
+.                       xM*iiiirrssssss++++++++++++++++++++++ssssssri;;;sxx:                        
+                       ,%#+;;;irrss++ssssss++++++++++++++++++ssssssr;::::+#i                        
+                       :M#s::;irrrss+**ooooo**++++++++++*oooo**+++sri:::,i#s                        
+                       :#%s::;iii+x##MMWW&&WM#%o*+++++*x##W&&WWM##x+i:::.i%+                        
+                       ,##+,:;;io###%%###MMM##%xo*****ox##MWWWMMMMMM%i::.r#s                        
+                        oMx::;i+o+*ox%%#MMWWM#%xo*++++o%#MMMM#%%xoo+o*;:.s#,                        
+                     ., ,M%:;;rss*#MM#&&&M#&&M%%o++++*%MMWW#&&&W###xrsi:.si  .                      
+                    .rs+ixx,;is++o*oxx#%#####xxo*+++++o%#MM#MMM#%%xx*sr;,rsr+r:                     
+                    .+rrr++:;irs+ss+*ooxxxxxoo***++++++oxx%#%%xxo+ss+sr;,;o+rs;                     
+                    ,+s;isr:;;rsss++**oooo***+**+++++ss+*ooooxoo**+srri;,:sii*:                     
+                     sii+os:;;rsssss++++*****oo+s++++ris**o*****++ssssr;.;*ris                      
+                     :rssr*i:;irssss++++**oxxo+rrs++siii*%xo***+++srsrr;.r*+r:                      
+                     .r**r**;;irrrss+++*oxxxxx*x#ooooxo+o%xxoo**++ssrii::*oos,                      
+                      is*++xs:;irsss+**oxxox%M&@@@&W&@@&W#xxxxo**+ssri;:*xosr.                      
+                      ,r;ssxosirsss++*ox%#MW&&@@@@@&@@@@@@&WM#xo*++srr;so+iis                       
+                       ,irrx%xo+++++**xM&&@&WWWWM##M##W&W&&&&&W%x***+++x*rii,                       
+                        irr;s#%%xo***xW&&&W##%%%%%%%%%####M&@&&W#oooxxxo+ssi                        
+                             +%%##%xo#WWMM#%xxxoxxx%%xxoxx%#MWW&W%%%#%xi ..                         
+                             .*%####%%MMxoo*+*ox%%MMM##xo**oox#MM%##%%*.                            
+                              .*%%%%%%#%xxoox%MMW&&&&&&W#%xxx%####%%xo:                             
+                                +%%%%##%MM%xxx%%#WWWWWW###%#MWWM##%%o;                              
+                                .+x%MMMMWM######%#####MM#MMW&&WMM#xo+,                              
+                                 ro%##MMWWWMM#MM##M##MMMMWWWWWMM#%xo+,                              
+                                 :+x%M#MMWWWMMMMMMWWMWWWWWWWWM###M#o+,                              
+                                 .s*o#M##MMM#MWW@&&&&&&&WWWWWMMWWM%os;.ss.                          
+                                  r*oo%##MMMWW&&&W&&&&&&&&&WWWMM##%osi,.MWr                         
+                                 :i+oxxxx%MMWWWWWWWWW&&&&WWWWMM#%%x*+s. :&Wxi                       
+                              :,ioir*oxxx%%##MMMWWWW&WWMMMMM###%xo*oo:  ,W&WMoi                     
+                            .xs:*Msis*oox%%%%###MMMMMMMM##M%%%xxoo%o:   i&&&WMMxr,  ............,,,,
+......................... .+&W.ix&orss***oxx%%%##M##M##%x%xxxxxx%%+.   .+@&&&WWWW#*i:...,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,.iM@@*.s%&%+ssss++***o%%%%xxxxxxxxxxxxx#x;   ..;#@&&&&&WWWWM%osr;,,..,,:::,,
+,,,,,,,,,,,,,,,,,,,,,,.,*&@&@s.rx@#o+++sss++**ooooooxxxxooooox%+,   .,:+&@&@&&&&&&&&W&WWW#x+r;,..,,,
+,,,,,,,,,,,,,,,,,,...,i#@@&&Ws s*&W%o++ssss++****ooooooooooxx*;    .,:r%@&@@@&&&&&&&&&&&&&@@&M%*r:..
+,,,,,,,,,,,,,,,..,;rsx&@&&W#%* :s%@M%o*+++++++****oooooooxos:     .,:;sW@&@@@@&&&&&&&&&&&&&&&@@&&M%*
+::::::::::,,,,;r*x%x%&@&&W%ox*  ,i#&M#xo*+++++********ox*r,     ..,,:io&&@@@@@@@@@@@@@@@@@&&@@&&&&&&
+:,:::,,,.,:r*x#MM#%%&@@&M%xo*r.   .;sx##xo********ooxor,       ..,,,;r#@&@@@@@@@@@@@@@@@@@@@@@@@@@&&
+,,,,..:i+x#WWMM#%%%W@@&M%x*rs;,   .. .:s*x%%xxxxxo*si.,;.     ..,,,:i+&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+..,;so#W&&&WWWM##%W@@&M%x*rii:,      .   .,isrsrr;ir*#@@Wxi   ..,,,;i%@&@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+r+xMW&&&&&&WWWMM##&&W#%%*r;i;,,   .s#Wxooox%#MM%#W@@@@@@@@@#i .,,,;is&&&@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+MWW&&&&&&&WWMMMM#&@&#MM*iiii:,,  sW@@@@@@@@@@@@@@@@&@@W%xo+sri,.::ii%@&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+WW&&@@&&&WWMWMW#M@@&WM+iir;::.. +#x%&&&&&&&&&&&&&&&&Wx+ri:::;;i:,;irM@&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+
+```
+
+### About Me
+- 📱 iOS Developer
+- 💻 Swift, UIKit & SwiftUI
+- 🌍 Building mobile applications and learning new technologies
 
