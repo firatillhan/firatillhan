@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="middle">
 
 ```text
 ,...............  .,,:;;;;iri:....................
@@ -31,22 +31,49 @@
 ,.,:i*x###@&#*s  ,i+*****+ri   .,,rW@&@@@@@&&&&@@@
 ;sxM&&WM#&W#+i;. ,rrr*xxox#&M+..,:o@&@@@@@@@@@@@&&
 W&@@&WMMW&M*i;: rM@@@@@@@@&x*si,:iW@&@@@@@@@@@@@@@
-
 ```
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="middle">
 
-👨‍💻 About Me
+### 👨‍💻 About Me
 
-- 📱 **iOS Developer** focused on building native applications
-- 🍎 Developing with **Swift, UIKit & SwiftUI**
-- 🚀 Creator of [Sermora](https://apps.apple.com/tr/app/sermora/id6760352077) — a language-learning app
-- 🔥 Experienced with **Firebase, REST APIs & MySQL**
-- 🧠 Exploring **AI, Machine Learning & Core ML**
-- 🌐 Also interested in **Python, backend development & networking**
-- 📚 Always learning and building new projects
+I'm an **iOS Developer** passionate about building useful, intuitive, and well-designed mobile applications.
+
+- 🍎 Native iOS development with Swift
+- 🚀 Creator of **Sermora**, a language-learning app
+- 🧩 Interested in app architecture and API integration
+- 🤖 Exploring AI and machine learning
+- 🌱 Always learning and building new things
 
 </td>
 </tr>
 </table>
+
+---
+
+## 🛠️ Tech Stack
+
+**Mobile Development**
+
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=white)
+
+**Backend & Database**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**AI & Data**
+
+![ scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Core ML](https://img.shields.io/badge/Core_ML-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+
+
+
+
