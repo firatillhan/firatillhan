@@ -36,7 +36,8 @@ W&@@&WMMW&M*i;: rM@@@@@@@@&x*si,:iW@&@@@@@@@@@@@@@
 
 </td>
 <td width="50%" valign="top">
-### 👨‍💻 About Me
+
+👨‍💻 About Me
 
 - 📱 **iOS Developer** focused on building native applications
 - 🍎 Developing with **Swift, UIKit & SwiftUI**
