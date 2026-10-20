@@ -32,3 +32,48 @@ I build mobile applications focused on clean interfaces, useful features, and gr
 
 ### 🚀 Featured Project
 
+#### 🌍 Sermora — Language Learning App
+
+A multilingual language-learning application designed to help users improve their vocabulary and sentence skills through interactive exercises.
+
+- 📚 100 learning categories
+- 🗣️ Vocabulary and sentence-based exercises
+- 🌐 Turkish, English, Spanish, German, and French
+- 🍎 Built for iOS using Swift and UIKit
+
+**Explore:** [Sermora](https://swiftogreniyorum.com)
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=firatillhan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firatillhan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=firatillhan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p>
+  <a href="https://firatilhan.com.tr">
+    <img src="https://img.shields.io/badge/Personal_Website-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal Website" />
+  </a>
+  <a href="https://swiftogreniyorum.com">
+    <img src="https://img.shields.io/badge/Swift_Öğreniyorum-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift Öğreniyorum" />
+  </a>
+  <a href="https://github.com/firatillhan">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Keep learning, keep building, and keep improving."</i>
+</p>
