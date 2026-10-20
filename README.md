@@ -36,12 +36,15 @@ W&@@&WMMW&M*i;: rM@@@@@@@@&x*si,:iW@&@@@@@@@@@@@@@
 
 </td>
 <td width="50%" valign="top">
+### 👨‍💻 About Me
 
-### About Me
-
-- 📱 iOS Developer
-- 💻 Swift, UIKit & SwiftUI
-- 🌍 Building mobile applications and learning new technologies
+- 📱 **iOS Developer** focused on building native applications
+- 🍎 Developing with **Swift, UIKit & SwiftUI**
+- 🚀 Creator of [Sermora](https://apps.apple.com/) — a language-learning app
+- 🔥 Experienced with **Firebase, REST APIs & MySQL**
+- 🧠 Exploring **AI, Machine Learning & Core ML**
+- 🌐 Also interested in **Python, backend development & networking**
+- 📚 Always learning and building new projects
 
 </td>
 </tr>
