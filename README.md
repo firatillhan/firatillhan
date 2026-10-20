@@ -1,5 +1,9 @@
 ## Hi, I'm Fırat 👋
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ```text
 ,...............  .,,:;;;;iri:....................
 .............. ,r*x#WWWWWWMMM#os;. ...............
@@ -28,11 +32,17 @@
 ;sxM&&WM#&W#+i;. ,rrr*xxox#&M+..,:o@&@@@@@@@@@@@&&
 W&@@&WMMW&M*i;: rM@@@@@@@@&x*si,:iW@&@@@@@@@@@@@@@
 
-
 ```
 
+</td>
+<td width="50%" valign="top">
+
 ### About Me
+
 - 📱 iOS Developer
 - 💻 Swift, UIKit & SwiftUI
 - 🌍 Building mobile applications and learning new technologies
 
+</td>
+</tr>
+</table>
