@@ -4,12 +4,6 @@
 <table>
 <tr>
 <td width="45%" valign="middle" align="center">
-
-
-
-</td>
-<td width="55%" valign="top">
-
 ### 👨‍💻 About Me
 
 I'm an iOS Developer passionate about building intuitive and well-designed mobile applications.
@@ -18,6 +12,12 @@ I'm an iOS Developer passionate about building intuitive and well-designed mobil
 - 🚀 Creator of [Sermora](https://apps.apple.com/)
 - 🧩 Interested in app architecture and API integration
 - 🤖 Exploring AI and Machine Learning
+
+
+</td>
+<td width="55%" valign="top">
+
+
 
 ### 🛠️ Tech Stack
 
